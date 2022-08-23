@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Axiel Roque</h1>
-<h3 align="center">I'd describe myself mainly as a WordPress enthusiast, however, I like learning about other technologies and feel comfortable working with JavaScript</h3>
+<h1 align="left">Hi 👋, I'm Axiel Roque</h1>
+<h3 align="left">I'd describe myself mainly as a WordPress enthusiast, however, I like learning about other technologies and feel comfortable working with JavaScript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axielroque&label=Profile%20views&color=0e75b6&style=flat" alt="axielroque" /> </p>
 
