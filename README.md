@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Axiel Roque</h1>
 <h3 align="left">I'd describe myself mainly as a WordPress enthusiast, however, I like learning about other technologies and feel comfortable working with JavaScript</h3>
 
-- 🔭 I’m currently working on [Nerdify](getnerdify.com)
-
 - 📫 How to reach me **axiel.roque@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
